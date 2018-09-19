@@ -2,94 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71c6ea09-6d75-49a7-8005-7b6ee75c5dc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintrc.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-prettier/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-prettier/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/always-return.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/always-return.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/avoid-new.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/avoid-new.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/catch-or-return.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/catch-or-return.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/lib/has-promise-callback.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/lib/has-promise-callback.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/lib/is-callback.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/lib/is-callback.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/lib/is-inside-callback.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/lib/is-inside-callback.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/lib/is-inside-promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/lib/is-inside-promise.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/lib/is-named-callback.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/lib/is-named-callback.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/lib/is-promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/lib/is-promise.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/no-callback-in-promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/no-callback-in-promise.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/no-native.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/no-native.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/no-nesting.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/no-nesting.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/no-promise-in-callback.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/no-promise-in-callback.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/no-return-in-finally.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/no-return-in-finally.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/no-return-wrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/no-return-wrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/param-names.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/param-names.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/prefer-await-to-callbacks.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/prefer-await-to-callbacks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/prefer-await-to-then.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-promise/rules/prefer-await-to-then.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/ast-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/ast-utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/cli-engine.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/cli-engine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/code-path-analysis/code-path-state.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/code-path-analysis/code-path-state.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/code-path-analysis/code-path.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/code-path-analysis/code-path.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/code-path-analysis/fork-context.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/code-path-analysis/fork-context.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/config/config-file.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/config/config-file.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/config/config-ops.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/config/config-ops.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/config/config-rule.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/config/config-rule.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/config/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/config/plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/file-finder.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/file-finder.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/ignored-paths.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/ignored-paths.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/linter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/linter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/load-rules.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/load-rules.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/accessor-pairs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/accessor-pairs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/array-callback-return.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/array-callback-return.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/array-element-newline.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/array-element-newline.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/curly.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/curly.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/generator-star-spacing.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/generator-star-spacing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/indent-legacy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/indent-legacy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/indent.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/indent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/keyword-spacing.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/keyword-spacing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/max-len.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/max-len.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-buffer-constructor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-buffer-constructor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-control-regex.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-control-regex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-else-return.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-else-return.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-empty-character-class.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-empty-character-class.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-eval.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-eval.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-extra-parens.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-extra-parens.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-implicit-coercion.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-implicit-coercion.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-invalid-regexp.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-invalid-regexp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-irregular-whitespace.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-irregular-whitespace.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-loop-func.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-loop-func.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-magic-numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-magic-numbers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-return-assign.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-return-assign.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-unexpected-multiline.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-unexpected-multiline.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-unsafe-finally.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-unsafe-finally.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-useless-escape.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-useless-escape.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-useless-return.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-useless-return.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-var.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-var.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/object-curly-newline.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/object-curly-newline.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/one-var.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/one-var.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/padding-line-between-statements.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/padding-line-between-statements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/prefer-arrow-callback.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/prefer-arrow-callback.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/prefer-template.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/prefer-template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/space-unary-ops.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/space-unary-ops.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/spaced-comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/spaced-comment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/valid-jsdoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/valid-jsdoc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/vars-on-top.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/vars-on-top.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/timing.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/timing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/util/glob-util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/util/glob-util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/util/naming.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/util/naming.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/util/npm-util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/util/npm-util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/util/path-util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/util/path-util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/util/source-code-util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/util/source-code-util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/util/source-code.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/util/source-code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/.eslintrc.json" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -153,14 +66,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="LICENSE" value="1" />
-          <entry key="js" value="3" />
-          <entry key="json" value="3" />
+          <entry key="js" value="4" />
+          <entry key="json" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="3" />
-          <entry key="JavaScript" value="3" />
+          <entry key="JSON" value="4" />
+          <entry key="JavaScript" value="4" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -191,7 +104,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -201,19 +114,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/functions/.eslintrc.json">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1192">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="435">
+              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/.eslintrc.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+            <state relative-caret-position="105">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -237,9 +155,9 @@
         <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/tools/eslint/bin/eslint.js" />
         <option value="$PROJECT_DIR$/.eslintrc.yml" />
-        <option value="$PROJECT_DIR$/test/test.js" />
         <option value="$PROJECT_DIR$/functions/.eslintrc.json" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/test/test.js" />
       </list>
     </option>
   </component>
@@ -285,7 +203,7 @@
             <path>
               <item name="btc-miner" type="b2602c69:ProjectViewProjectNode" />
               <item name="btc-miner" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -366,10 +284,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5570000" />
+    <option name="totallyTimeSpent" value="5823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1542811" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -414,13 +333,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="745">
@@ -435,17 +347,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/functions/.eslintrc.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions/.eslintrc.json">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1192">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="435">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -453,6 +365,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
