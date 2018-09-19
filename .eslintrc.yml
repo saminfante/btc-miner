@@ -1,0 +1,18 @@
+---
+extends:
+- 'eslint:recommended'
+- 'plugin:node/recommended'
+- 'plugin:prettier/recommended'
+- 'prettier/flowtype'
+- 'prettier/react'
+- 'prettier/standard'
+- prettier
+plugins:
+- node
+- prettier
+rules:
+  prettier/prettier: error
+  block-scoped-var: error
+  eqeqeq: error
+  no-warning-comments: warn
+  no-var: error
