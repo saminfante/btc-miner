@@ -2,9 +2,18 @@
   "name": "btc-miner",
   "version": "1.0.1",
   "description": "A btc-miner for nodejs v6.11.5 and above",
+  "author": "Sam Infante <saminfante28@gmail.com> https://saminfante.com",
+  "license": "Apache-2.0",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "xo && ava",
+    "coveralls": "nyc npm test && nyc report --reporter=text-lcov | coveralls"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=6"
   },
   "repository": {
     "type": "git",
@@ -16,15 +25,24 @@
     "Cryptocurrency",
     "NodeJS",
     "SHA-256",
-    "Cryptography"
+    "Cryptography",
+    "bitcoin",
+    "mining",
+    "miner",
+    "sha256",
+    "nonce",
+    "native",
+    "js",
+    "javascript",
+    "nodejs"
   ],
-  "author": "Sam Infante <saminfante28@gmail.com> https://saminfante.com",
-  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/saminfante/btc-miner/issues"
   },
   "homepage": "https://github.com/saminfante/btc-miner",
   "devDependencies": {
+    "ava": "*",
+    "coveralls": "^3.0.0",
     "eslint": "^5.6.0",
     "eslint-config-google": "^0.10.0",
     "eslint-config-prettier": "^3.0.1",
@@ -32,10 +50,23 @@
     "eslint-plugin-promise": "^4.0.1",
     "lerna": "^2.8.0",
     "mocha": "^5.2.0",
+    "nyc": "^11.4.1",
     "prettier": "1.14.2",
-    "semistandard": "*"
+    "semistandard": "*",
+    "xo": "*"
   },
   "dependencies": {
-    "bitcoin-miner": "^1.2.1"
-  }
+    "bitcoin-miner": "^1.2.1",
+    "chalk": "^2.3.0"
+  },
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "node": true
+    }
+  },
+  "extends": [
+    "eslint:recommended",
+    "google"
+  ]
 }
